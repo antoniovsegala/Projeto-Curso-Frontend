@@ -1,1 +1,8 @@
-# Projeto-Curso-Frontend
+##################################################################################
+#                     Curso de Html, CSS e JavaScript                            #
+#                                                                                #
+#   Aluno: Antonio Victor Iaroseski Segala                                       #
+#   Plataforma: Udemy                                                            #
+#                                                                                #
+#                                                                                #
+##################################################################################
