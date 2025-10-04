@@ -4,5 +4,4 @@
 #   Aluno: Antonio Victor Iaroseski Segala                                       #
 #   Plataforma: Udemy                                                            #
 #                                                                                #
-#                                                                                #
 ##################################################################################
