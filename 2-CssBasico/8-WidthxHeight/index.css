@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.dark {
+  background: #222;
+  color: #fff;
+  width: 50%;
+  height: 100vh;
+}
+
+.white {
+  background: #fff;
+  color: #222;
+  width: 50%;
+  height: 100vh;
+}
