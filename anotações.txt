@@ -1,0 +1,10 @@
+html
+
+
+
+CSS
+
+
+JavaScript
+
+Extensão nodemon: serve para rodar o sistema toda vez que o arquivo é salvo.
