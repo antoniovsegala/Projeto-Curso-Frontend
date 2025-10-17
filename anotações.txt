@@ -1,3 +1,11 @@
+Gerais
+
+Comentar varias linhas
+ctrl + k, logo apos ctrl + c
+Descomentar varias linhas
+ctrl + k, logo apos ctrl + u
+
+
 html
 
 
